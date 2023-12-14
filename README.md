@@ -1,5 +1,9 @@
 # The Most Discussed Topics in the Data Science Field in 2023
 
+# LINK TO MY MEDIUM ARTICLE:
+# [Is ChatGPT Truly the Most Discussed Topics in 2023 for Data Science?](https://medium.com/@edwardlongtang/the-most-discussed-topics-in-2023-for-data-science-3f0869514f41)
+
+
 ## Objective:
 The goal of this project is to analyze data from 10 data science related channels. The project aims to find out what the most frequency topics creators talked about in 2023, through YouTube Data API.
 ---
