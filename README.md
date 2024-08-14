@@ -5,7 +5,7 @@
 
 
 ## Objective:
-The goal of this project is to analyze data from 10 data science related channels. The project aims to find out what the most frequency topics creators talked about in 2023, through YouTube Data API.
+The goal of this project is to analyze data from 10 data science related channels. The project aims to find out what the most frequent topics creators talked about in 2023, through YouTube Data API.
 ---
 ## Data Collection:
 The collected data are:
